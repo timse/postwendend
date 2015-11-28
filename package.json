@@ -1,0 +1,24 @@
+{
+  "name": "postwendend",
+  "version": "0.0.1",
+  "description": "Redirects the user to a new page via POST, allowing to transfer data on the way.",
+  "main": "lib/index.js",
+  "scripts": {
+    "build": "webpack",
+    "prepublish": "npm run build"
+  },
+  "keywords": [
+    "redirect",
+    "post",
+    "form",
+    "redirect by form",
+    "redirect by post"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-loader": "5.3.3",
+    "babel-core": "5.8.34",
+    "webpack": "^1.12.9"
+  }
+}
