@@ -1,6 +1,6 @@
 {
   "name": "postwendend",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Redirects the user to a new page via POST, allowing to transfer data on the way.",
   "main": "lib/index.js",
   "scripts": {
@@ -14,8 +14,18 @@
     "redirect by form",
     "redirect by post"
   ],
-  "author": "",
+  "author": {
+    "name": "Tim Sebastian",
+    "email": "tim.sebastian@gmail.com"
+  },
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/timse/postwendend"
+  },
+  "bugs": {
+    "url": "https://github.com/timse/postwendend/issues"
+  },
   "devDependencies": {
     "babel-loader": "5.3.3",
     "babel-core": "5.8.34",
