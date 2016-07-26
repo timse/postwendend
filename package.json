@@ -3,6 +3,7 @@
   "version": "0.0.2",
   "description": "Redirects the user to a new page via POST, allowing to transfer data on the way.",
   "main": "lib/index.js",
+  "typings": "index.d.ts",
   "scripts": {
     "build": "webpack",
     "prepublish": "npm run build"
