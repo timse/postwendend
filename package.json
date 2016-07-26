@@ -1,6 +1,6 @@
 {
   "name": "postwendend",
-  "version": "0.0.2",
+  "version": "0.1.0",
   "description": "Redirects the user to a new page via POST, allowing to transfer data on the way.",
   "main": "lib/index.js",
   "typings": "index.d.ts",
